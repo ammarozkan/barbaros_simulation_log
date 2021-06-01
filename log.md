@@ -4,7 +4,7 @@
 - [ ] Dönerken cisimlerin içinden geçme.
 - [ ] Simulation.rar dosyasının içine log.md dosyası konulacak.
 - [ ] Simülasyon uygulamasına versiyon yazılacak.
-- [ ] Linux versiyonu yayınlanacak.
+- [ ] Linux versiyonu build edilecek.
 
 ### Güncellemeler
 
