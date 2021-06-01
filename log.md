@@ -1,7 +1,9 @@
 # Barbaros Simülasyon
 
 ### Gerekliler
-- [ ] Dönerken cisimlerin içinden geçme
+- [ ] Dönerken cisimlerin içinden geçme.
+- [ ] Simulation.rar dosyasının içine log.md dosyası konulacak.
+- [ ] Linux versiyonu yayınlanacak.
 
 ### Güncellemeler
 
