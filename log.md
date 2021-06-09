@@ -11,6 +11,7 @@
 #### 0.2.0.5 Beta
 - Versiyon artık ana ekranda yazıyor.
 - Versiyon logları artık oyun klasörü içinde bulunuyor.
+- Güncelleme bilgilerini gösteren panel eklendi.
 
 #### 0.2.0.4 Beta
 - Başlangıç kamerası 3. bakış kamera açısı olarak ayarlandı.
