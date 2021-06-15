@@ -11,6 +11,7 @@
 
 #### 0.2.1.0 Beta
 - Haritanın rastgele oluştuğu bölüm eklendi.
+- Arayüz  g altyapısı değiştirildi.
 
 #### 0.2.0.5 Beta
 - Versiyon artık ana ekranda yazıyor.
