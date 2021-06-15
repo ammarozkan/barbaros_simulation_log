@@ -5,8 +5,12 @@
 - [ ] Simulation.rar dosyasının içine log.md dosyası konulacak.
 - [x] Simülasyon uygulamasına versiyon yazılacak.
 - [ ] Linux versiyonu build edilecek.
+- [ ] Rastgele Sistemi yapılacak.
 
 ### Güncellemeler
+
+#### 0.2.1.0 Beta
+- Haritanın rastgele oluştuğu bölüm eklendi.
 
 #### 0.2.0.5 Beta
 - Versiyon artık ana ekranda yazıyor.
